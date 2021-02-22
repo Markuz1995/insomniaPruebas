@@ -1,0 +1,8 @@
+_id: wrk_1bb7601745204a9fb1ce41f47ce77b06
+type: Workspace
+parentId: null
+modified: 1614013410488
+created: 1613577560530
+name: ApiRest Nodejs 1.0.0
+description: This is a project to test a rest api.
+scope: spec
